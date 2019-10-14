@@ -16,3 +16,13 @@
 	echo '<a href="' . htmlspecialchars($loginUrl) . '">Log in with Facebook!</a>';
 
 ?>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Facebook Login</title>
+</head>
+<body>
+
+</body>
+</html>
