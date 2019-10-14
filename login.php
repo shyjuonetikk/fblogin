@@ -17,12 +17,3 @@
 
 ?>
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Facebook Login</title>
-</head>
-<body>
-
-</body>
-</html>
